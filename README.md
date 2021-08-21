@@ -1,6 +1,6 @@
 - 👋 sup, I’m Dali
 - 👀 I’m interested in kinda all IT fields
-- 🌱 I’m currently learning angular
+- 🌱 I’m currently learning and working on angular and spring boot
 
 
 <!---
