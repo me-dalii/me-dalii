@@ -1,5 +1,5 @@
 <h1 align="center">Sup 👋, I'm Dali</h1>
-<h3 align="center">A passionate developer and Reaserch Masters Student</h3>
+<h3 align="center">A Passionate Developer and Reaserch Masters Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=me-dalii&label=Profile%20views&color=0e75b6&style=flat" alt="me-dalii" /> </p>
 
