@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=me-dalii&label=Profile%20views&color=0e75b6&style=flat" alt="me-dalii" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://dali-jelidi.web.app/](https://dali-jelidi.web.app/)
+- 👨‍💻 Visit my full portfolio at [https://dali-jelidi.web.app/](https://dali-jelidi.web.app/)
 
 - 👀 I’m interested in kinda all IT fields
 
