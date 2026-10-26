@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dali (Mohamed Ali Jelidi)</h1>
 <h3 align="center">Java / Spring Boot software engineer · Co-Founder &amp; CTO at Dipawer</h3>
 
-I build Java and Spring Boot backends with Angular frontends, and I like owning a feature from design until it runs in production. I'm based in Bizerte, Tunisia, and relocating to Europe in 2027.
+I build Java and Spring Boot backends with Angular frontends, and I like owning a feature from design until it runs in production. I'm based in Bizerte, Tunisia.
 
 - 🌐 Portfolio: [dali-jelidi.web.app](https://dali-jelidi.web.app)
 - 💼 LinkedIn: [linkedin.com/in/medali-jelidi](https://linkedin.com/in/medali-jelidi/)
