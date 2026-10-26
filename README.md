@@ -1,20 +1,31 @@
-<h1 align="center">Sup 👋, I'm Dali</h1>
-<h3 align="center">A Passionate Developer and Reaserch Masters Student</h3>
+<h1 align="center">Hi, I'm Dali (Mohamed Ali Jelidi)</h1>
+<h3 align="center">Java / Spring Boot software engineer · Co-Founder &amp; CTO at Dipawer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=me-dalii&label=Profile%20views&color=0e75b6&style=flat" alt="me-dalii" /> </p>
+I build Java and Spring Boot backends with Angular frontends, and I like owning a feature from design until it runs in production. I'm based in Bizerte, Tunisia, and relocating to Europe in 2027.
 
-- 👨‍💻 Visit my full portfolio at [https://dali-jelidi.web.app/](https://dali-jelidi.web.app/)
+- 🌐 Portfolio: [dali-jelidi.web.app](https://dali-jelidi.web.app)
+- 💼 LinkedIn: [linkedin.com/in/medali-jelidi](https://linkedin.com/in/medali-jelidi/)
+- 📫 Email: jmohamedali2012@gmail.com
 
-- 👀 I’m interested in kinda all IT fields
+## What I work on
 
-- 💬 Ask me about **Angular, Spring**
+- **Dipawer** (pet-care startup, spin-off of VETS Clinics), *Co-Founder & CTO, 2025 – present*: event-driven Spring Boot microservices communicating over RabbitMQ, with MongoDB and Redis and an Angular frontend. Shipped with Docker and GitLab CI/CD. I write backend and frontend code daily and review the team's pull requests.
+- **MyVets** (VETS Clinics), *Full-Stack Software Engineer, 2024 – 2025*: took over a platform after a handover, refactored its Spring Boot backend and put it into production for 600+ users. Real-time chat and emergency features over WebSockets, Docker Compose, Nginx and SSL.
 
-- 📫 How to reach me **medali7005@hotmail.fr**
+*Most of my production work lives in private company repositories, so it isn't visible here.*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/medali-jelid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="medali-jelid" height="30" width="40" /></a>
-</p>
+## Selected projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
+- **Kantarti**: real-time bridge and traffic status for Bizerte. Spring Boot 3 + Angular 19, WebSocket updates, scheduled processing and Firebase push alerts. 1.5K+ Android installs, 600+ iOS downloads, 4.7 rating.
+- **Axiom**: 27 Spring Boot microservices with Spring Cloud (Eureka, API Gateway), a MongoDB database per service, JWT at the gateway and an Angular SPA.
+- **RAG for veterinary questions** (research master's thesis): retrieval-augmented generation with Python, FAISS, Ollama and FastAPI, evaluated with METEOR.
+- **Clubs Management** ([backend](https://github.com/me-dalii/Clubs-Management---Backend) · [frontend](https://github.com/me-dalii/Clubs-Management---Frontend)): web app for the Faculty of Sciences of Bizerte to manage student clubs (Spring Boot, Angular, MySQL).
+
+## Tech
+
+**Backend:** Java · Spring Boot · Spring Security (JWT) · Spring Data JPA / Hibernate · Spring Cloud · REST · Microservices · RabbitMQ · WebSockets
+**Frontend:** Angular · TypeScript · PrimeNG · Tailwind
+**Data:** MySQL · Oracle · MongoDB · Redis
+**DevOps:** Docker · Docker Compose · GitLab CI/CD · Nginx · Linux · Git
+**Testing:** JUnit · Mockito · Jasmine · Karma · Playwright
+**Other:** Python (FAISS, FastAPI) for AI/RAG work
